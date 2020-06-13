@@ -28,4 +28,4 @@ The model is trained for 20 epochs.
 Accuracy on training set: 96%
 Accuracy on test set: 96.23%
 
-<img src="accuracy.PNG" width="700" height="300">
+<img src="accuracy.PNG" width="500" height="300">
