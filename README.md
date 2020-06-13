@@ -13,11 +13,11 @@ The data is fetched from the source: <i>https://www.kaggle.com/puneet6060/intel-
 
 # Architecture of the Model
 
->A conv2D layer with 32 nodes
->A max pooling layer with a sliding window size of 2x2
->A flatten layer
->A hidden dense layer with 128 nodes 
->An output dense layer with 6 nodes with softmax activation function 
+>A conv2D layer with 32 nodes<br>
+>A max pooling layer with a sliding window size of 2x2<br>
+>A flatten layer<br>
+>A hidden dense layer with 128 nodes<br>
+>An output dense layer with 6 nodes with softmax activation function
 
 The model is compiled with adam optimizer with a loss of categorical crossentropy 
 
@@ -25,7 +25,7 @@ The model is trained for 20 epochs.
 
 # Results
 
-Accuracy on training set: 96%
+Accuracy on training set: 96%<br>
 Accuracy on test set: 96.23%
 
 <img src="accuracy.PNG" width="500" height="300">
