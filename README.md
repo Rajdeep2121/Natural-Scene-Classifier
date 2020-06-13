@@ -6,7 +6,7 @@ Natural Scenery Classifier using CNN
 The data is fetched from the source: <i>https://www.kaggle.com/puneet6060/intel-image-classification</i>
 
 >## How to get the data:
-
+>
 >Follow the above link<br>
 >Download the dataset<br>
 >Place all the three downloaded folders(seg_pred,seg_train,seg_test) in a new folder called data<br>
@@ -25,7 +25,7 @@ The model is trained for 20 epochs.
 
 # Results
 
-Accuracy on training set: 96%<br>
-Accuracy on test set: 96.23%
+Accuracy on training set: <b>96%</b><br>
+Accuracy on test set: <b>96.23%</b>
 
 <img src="accuracy.PNG" width="500" height="300">
